@@ -14,10 +14,11 @@ a {
 }
 
 .photo{
-    width: 55px;
+    width: 80px;
     height: 80px;
-    overflow: hidden;
-    position: relative;
+    border-top: 10px;
+    border-radius: 50%;
+    margin-top: 30px;
 }
 
 #title, .subtitle, .post_title {
